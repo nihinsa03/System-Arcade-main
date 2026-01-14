@@ -1,0 +1,122 @@
+[
+    {
+      "session_id": "S001",
+      "version": 1,
+      "table_id": "T001",
+      "waiter_id": "U002",
+      "client_id": "CUST001",
+      "start_dtm": "2025-07-30T12:00:00Z",
+      "end_dtm": null,
+      "status": "active",
+      "orders": [
+        {
+          "order_id": "O001",
+          "branch_id": "B001",
+          "table_id": "T001",
+          "status": "pending",
+          "created_dtm": "2025-07-30T12:05:00Z",
+          "order_items": [
+            {
+              "order_item_id": "OI001",
+              "menu_item_id": "M001",
+              "portion_size": "large",
+              "quantity": 2,
+              "note": "Extra cheese",
+              "preparation_status": "queued",
+              "station_id": "KS001",
+              "served": false
+            },
+            {
+              "order_item_id": "OI002",
+              "menu_item_id": "M002",
+              "portion_size": "regular",
+              "quantity": 1,
+              "note": "",
+              "preparation_status": "preparing",
+              "station_id": "KS002",
+              "served": false
+            }
+          ]
+        },
+        {
+          "order_id": "O002",
+          "branch_id": "B001",
+          "table_id": "T001",
+          "status": "served",
+          "created_dtm": "2025-07-30T12:10:00Z",
+          "order_items": [
+            {
+              "order_item_id": "OI003",
+              "menu_item_id": "M003",
+              "portion_size": "small",
+              "quantity": 3,
+              "note": "No sugar",
+              "preparation_status": "ready",
+              "station_id": "KS003",
+              "served": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "session_id": "S001",
+      "version": 1,
+      "table_id": "T001",
+      "waiter_id": "U002",
+      "client_id": "CUST001",
+      "start_dtm": "2025-07-30T12:00:00Z",
+      "end_dtm": null,
+      "status": "active",
+      "orders": [
+        {
+          "order_id": "O001",
+          "branch_id": "B001",
+          "table_id": "T001",
+          "status": "pending",
+          "created_dtm": "2025-07-30T12:05:00Z",
+          "order_items": [
+            {
+              "order_item_id": "OI001",
+              "menu_item_id": "M001",
+              "portion_size": "large",
+              "quantity": 2,
+              "note": "Extra cheese",
+              "preparation_status": "queued",
+              "station_id": "KS001",
+              "served": false
+            },
+            {
+              "order_item_id": "OI002",
+              "menu_item_id": "M002",
+              "portion_size": "regular",
+              "quantity": 1,
+              "note": "",
+              "preparation_status": "preparing",
+              "station_id": "KS002",
+              "served": false
+            }
+          ]
+        },
+        {
+          "order_id": "O002",
+          "branch_id": "B001",
+          "table_id": "T001",
+          "status": "served",
+          "created_dtm": "2025-07-30T12:10:00Z",
+          "order_items": [
+            {
+              "order_item_id": "OI003",
+              "menu_item_id": "M003",
+              "portion_size": "small",
+              "quantity": 3,
+              "note": "No sugar",
+              "preparation_status": "ready",
+              "station_id": "KS003",
+              "served": true
+            }
+          ]
+        }
+      ]
+    }
+  ]

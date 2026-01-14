@@ -1,0 +1,46 @@
+[
+    {
+      "table_id": "T001",
+      "version": 1,
+      "branch_id": "B001",
+      "table_number": "Table-01",
+      "qrcode_location": "/qrcodes/T001.png",
+      "capacity": 4,
+      "availability_status": "available",
+      "power_status": "on",
+      "created_dtm": "2025-07-30T12:00:00Z"
+    },
+    {
+      "table_id": "T002",
+      "version": 1,
+      "branch_id": "B001",
+      "table_number": "Table-01",
+      "qrcode_location": "/qrcodes/T001.png",
+      "capacity": 2,
+      "availability_status": "unavailable",
+      "power_status": "off",
+      "created_dtm": "2025-07-30T12:00:00Z"
+    },
+    {
+      "table_id": "T003",
+      "version": 1,
+      "branch_id": "B001",
+      "table_number": "Table-01",
+      "qrcode_location": "/qrcodes/T001.png",
+      "capacity": 2,
+      "availability_status": "available",
+      "power_status": "on",
+      "created_dtm": "2025-07-30T12:00:00Z"
+    },
+    {
+      "table_id": "T004",
+      "version": 1,
+      "branch_id": "B001",
+      "table_number": "Table-01",
+      "qrcode_location": "/qrcodes/T001.png",
+      "capacity": 2,
+      "availability_status": "unavailable",
+      "power_status": "on",
+      "created_dtm": "2025-07-30T12:00:00Z"
+    }
+  ]

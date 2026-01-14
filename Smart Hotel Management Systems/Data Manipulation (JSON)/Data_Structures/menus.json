@@ -1,0 +1,693 @@
+[
+    {
+      "menu_id": "M001",
+      "version": 1,
+      "branch_id": null,
+      "menu_name": "Global Menu",
+      "is_active": true,
+      "created_dtm": "2025-07-30T12:00:00Z",
+      "menu_categories": [
+        {
+          "category_id": "C001",
+          "category_name": "Starters",
+          "display_order": 1,
+          "menu_items": [
+            {
+              "item_id": "I001",
+              "name": "Cheese Garlic Bread",
+              "description": "Freshly baked bread topped with cheese and garlic.",
+              "is_available": true,
+              "price": 5.99,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I001.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R001",
+                  "created_by": "U001",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI001",
+                      "inventory_item_id": "INV001",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI002",
+                      "inventory_item_id": "INV002",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I003",
+              "name": "Bruschetta",
+              "description": "Grilled bread topped with fresh tomatoes and basil.",
+              "is_available": true,
+              "price": 6.5,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I003.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R002",
+                  "created_by": "U002",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI003",
+                      "inventory_item_id": "INV003",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI004",
+                      "inventory_item_id": "INV004",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I004",
+              "name": "Chicken Wings",
+              "description": "Crispy wings with spicy dip.",
+              "is_available": true,
+              "price": 7.99,
+              "portion_size": "6 pcs",
+              "image_url": "https://restaurantapp.com/images/items/I004.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R003",
+                  "created_by": "U003",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI005",
+                      "inventory_item_id": "INV005",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI006",
+                      "inventory_item_id": "INV006",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I005",
+              "name": "Mozzarella Sticks",
+              "description": "Fried mozzarella sticks with marinara sauce.",
+              "is_available": true,
+              "price": 6.99,
+              "portion_size": "5 pcs",
+              "image_url": "https://restaurantapp.com/images/items/I005.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R004",
+                  "created_by": "U004",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI007",
+                      "inventory_item_id": "INV007",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI008",
+                      "inventory_item_id": "INV008",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I006",
+              "name": "Onion Rings",
+              "description": "Crispy golden onion rings.",
+              "is_available": true,
+              "price": 5.5,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I006.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R005",
+                  "created_by": "U005",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI009",
+                      "inventory_item_id": "INV009",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI010",
+                      "inventory_item_id": "INV010",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I007",
+              "name": "Stuffed Mushrooms",
+              "description": "Baked mushrooms stuffed with cheese and herbs.",
+              "is_available": true,
+              "price": 6.25,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I007.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R006",
+                  "created_by": "U006",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI011",
+                      "inventory_item_id": "INV011",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI012",
+                      "inventory_item_id": "INV012",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": "C002",
+          "category_name": "Main Course",
+          "display_order": 2,
+          "menu_items": [
+            {
+              "item_id": "I002",
+              "name": "Grilled Chicken",
+              "description": "Juicy grilled chicken served with veggies.",
+              "is_available": true,
+              "price": 12.5,
+              "portion_size": "large",
+              "image_url": "https://restaurantapp.com/images/items/I002.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R007",
+                  "created_by": "U007",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI013",
+                      "inventory_item_id": "INV013",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI014",
+                      "inventory_item_id": "INV014",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I008",
+              "name": "Beef Steak",
+              "description": "Tender beef steak with peppercorn sauce.",
+              "is_available": true,
+              "price": 15.99,
+              "portion_size": "large",
+              "image_url": "https://restaurantapp.com/images/items/I008.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R008",
+                  "created_by": "U008",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI015",
+                      "inventory_item_id": "INV015",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI016",
+                      "inventory_item_id": "INV016",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I009",
+              "name": "Vegetable Lasagna",
+              "description": "Layers of pasta with veggies and cheese.",
+              "is_available": true,
+              "price": 11.5,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I009.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R009",
+                  "created_by": "U009",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI017",
+                      "inventory_item_id": "INV017",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI018",
+                      "inventory_item_id": "INV018",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I010",
+              "name": "BBQ Ribs",
+              "description": "Slow cooked pork ribs with BBQ glaze.",
+              "is_available": true,
+              "price": 14.25,
+              "portion_size": "full rack",
+              "image_url": "https://restaurantapp.com/images/items/I010.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R010",
+                  "created_by": "U010",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI019",
+                      "inventory_item_id": "INV019",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI020",
+                      "inventory_item_id": "INV020",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I011",
+              "name": "Fried Rice",
+              "description": "Egg fried rice with chicken and prawns.",
+              "is_available": true,
+              "price": 9.5,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I011.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R011",
+                  "created_by": "U011",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI021",
+                      "inventory_item_id": "INV021",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI022",
+                      "inventory_item_id": "INV022",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I012",
+              "name": "Vegetable Curry",
+              "description": "Mixed vegetable curry in coconut gravy.",
+              "is_available": true,
+              "price": 8.75,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I012.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R012",
+                  "created_by": "U012",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI023",
+                      "inventory_item_id": "INV023",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI024",
+                      "inventory_item_id": "INV024",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I013",
+              "name": "Seafood Pasta",
+              "description": "Pasta tossed with prawns and calamari.",
+              "is_available": true,
+              "price": 13.5,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I013.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R013",
+                  "created_by": "U013",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI025",
+                      "inventory_item_id": "INV025",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI026",
+                      "inventory_item_id": "INV026",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": "C003",
+          "category_name": "Desserts",
+          "display_order": 3,
+          "menu_items": [
+            {
+              "item_id": "I014",
+              "name": "Chocolate Lava Cake",
+              "description": "Molten chocolate-filled cake with ice cream.",
+              "is_available": true,
+              "price": 6.99,
+              "portion_size": "single",
+              "image_url": "https://restaurantapp.com/images/items/I014.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R014",
+                  "created_by": "U014",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI027",
+                      "inventory_item_id": "INV027",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI028",
+                      "inventory_item_id": "INV028",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I015",
+              "name": "Cheesecake",
+              "description": "Classic baked cheesecake with berry topping.",
+              "is_available": true,
+              "price": 6.5,
+              "portion_size": "slice",
+              "image_url": "https://restaurantapp.com/images/items/I015.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R015",
+                  "created_by": "U015",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI029",
+                      "inventory_item_id": "INV029",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI030",
+                      "inventory_item_id": "INV030",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I016",
+              "name": "Fruit Salad",
+              "description": "Fresh seasonal fruits with honey drizzle.",
+              "is_available": true,
+              "price": 4.99,
+              "portion_size": "bowl",
+              "image_url": "https://restaurantapp.com/images/items/I016.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R016",
+                  "created_by": "U016",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI031",
+                      "inventory_item_id": "INV031",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI032",
+                      "inventory_item_id": "INV032",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I017",
+              "name": "Ice Cream Sundae",
+              "description": "Vanilla ice cream with chocolate and nuts.",
+              "is_available": true,
+              "price": 5.5,
+              "portion_size": "regular",
+              "image_url": "https://restaurantapp.com/images/items/I017.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R017",
+                  "created_by": "U017",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI033",
+                      "inventory_item_id": "INV033",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI034",
+                      "inventory_item_id": "INV034",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I018",
+              "name": "Brownie",
+              "description": "Rich chocolate brownie with fudge sauce.",
+              "is_available": true,
+              "price": 5.75,
+              "portion_size": "single",
+              "image_url": "https://restaurantapp.com/images/items/I018.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R018",
+                  "created_by": "U018",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI035",
+                      "inventory_item_id": "INV035",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI036",
+                      "inventory_item_id": "INV036",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I019",
+              "name": "Apple Pie",
+              "description": "Cinnamon-spiced apple pie with whipped cream.",
+              "is_available": true,
+              "price": 6.25,
+              "portion_size": "slice",
+              "image_url": "https://restaurantapp.com/images/items/I019.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R019",
+                  "created_by": "U019",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI037",
+                      "inventory_item_id": "INV037",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI038",
+                      "inventory_item_id": "INV038",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "item_id": "I020",
+              "name": "Panna Cotta",
+              "description": "Italian dessert with a berry coulis.",
+              "is_available": true,
+              "price": 5.99,
+              "portion_size": "cup",
+              "image_url": "https://restaurantapp.com/images/items/I020.png",
+              "created_dtm": "2025-07-30T12:00:00Z",
+              "recipes": [
+                {
+                  "recipe_id": "R020",
+                  "created_by": "U020",
+                  "note": "Follow standard procedure",
+                  "recipe_ingredients": [
+                    {
+                      "recipe_ingredient_id": "RI039",
+                      "inventory_item_id": "INV039",
+                      "quantity_required_per_unit": 50,
+                      "unit": "g",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    },
+                    {
+                      "recipe_ingredient_id": "RI040",
+                      "inventory_item_id": "INV040",
+                      "quantity_required_per_unit": 60,
+                      "unit": "ml",
+                      "created_dtm": "2025-07-30T12:00:00Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]

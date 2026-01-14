@@ -1,0 +1,29 @@
+[
+    {
+      "user_id": "U001",
+      "version": 1,
+      "branch_id": "B001",
+      "user_name": "John Doe",
+      "email": "johndoe@example.com",
+      "password_hash": "$2a$10$abc123xyz",
+      "role": "branch_manager",
+      "user_status": "Active",
+      "approved_dtm": "2025-07-30T12:00:00Z"
+    },
+    {
+      "user_id": "U002",
+      "version": 1,
+      "branch_id": "B002",
+      "user_name": "John Doe",
+      "email": "johndoe@example.com",
+      "password_hash": "$2a$10$abc123xyz",
+      "role": "branch_manager",
+      "user_status": "Active",
+      "approved_dtm": "2025-07-30T12:00:00Z"
+    }
+]
+
+
+
+
+

@@ -1,0 +1,32 @@
+[
+    {
+      "summery_id": "SUM001",
+      "version": 1,
+      "branch_id": "B001",
+      "date": "2025-07-30",
+      "total_orders": 120,
+      "total_revenue": 4500.75,
+      "total_discounts": 250.00,
+      "created_dtm": "2025-07-30T23:59:59Z"
+    },
+    {
+      "summery_id": "SUM002",
+      "version": 1,
+      "branch_id": "B002",
+      "date": "2025-07-30",
+      "total_orders": 85,
+      "total_revenue": 3750.50,
+      "total_discounts": 180.00,
+      "created_dtm": "2025-07-30T23:59:59Z"
+    },
+    {
+      "summery_id": "SUM003",
+      "version": 1,
+      "branch_id": "B001",
+      "date": "2025-07-29",
+      "total_orders": 95,
+      "total_revenue": 3900.00,
+      "total_discounts": 200.00,
+      "created_dtm": "2025-07-29T23:59:59Z"
+    }
+  ]

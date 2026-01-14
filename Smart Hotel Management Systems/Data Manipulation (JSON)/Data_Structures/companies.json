@@ -1,0 +1,82 @@
+[
+    {
+      "company_id": "C001",
+      "version": 1,
+      "company_name": "ABC Restaurants Pvt Ltd",
+      "created_dtm": "2025-07-30T10:00:00Z",
+      "company_status": "active",
+      "branches": [
+        {
+          "branch_id": "B001",
+          "branch_name": "Colombo Main Branch",
+          "location": "Colombo 07",
+          "contact": "+94 77 123 4567",
+          "created_dtm": "2025-07-30T10:00:00Z",
+          "branch_status": "Active",
+          "kitchen_stations": [
+            {
+              "kitchen_status": "active",
+              "kitchen_station_id": "KS001",
+              "name": "Grill Station",
+              "category_handled": "Grilled Items"
+            },
+            {
+              "kitchen_status": "active",
+              "kitchen_station_id": "KS002",
+              "name": "Dessert Station",
+              "category_handled": "Desserts"
+            }
+          ]
+        },
+        {
+          "branch_id": "B002",
+          "branch_name": "Kandy Branch",
+          "location": "Kandy City Centre",
+          "contact": "+94 77 987 6543",
+          "created_dtm": "2025-07-30T10:00:00Z",
+          "branch_status": "Active",
+          "kitchen_stations": [
+            {
+              "kitchen_status": "active",
+              "kitchen_station_id": "KS003",
+              "name": "Beverage Station",
+              "category_handled": "Drinks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "company_id": "C002",
+      "version": 1,
+      "company_name": "ABC Restaurants Pvt Ltd",
+      "created_dtm": "2025-07-30T10:00:00Z",
+      "company_status": "active",
+      "branches": [
+        {
+          "branch_id": "B001",
+          "branch_name": "Colombo Main Branch",
+          "location": "Colombo 07",
+          "contact": "+94 77 123 4567",
+          "created_dtm": "2025-07-30T10:00:00Z",
+          "branch_status": "Active",
+          "kitchen_stations": [
+            {
+              "kitchen_status": "active",
+              "kitchen_station_id": "KS001",
+              "name": "Grill Station",
+              "category_handled": "Grilled Items"
+            },
+            {
+              "kitchen_status": "active",
+              "kitchen_station_id": "KS002",
+              "name": "Dessert Station",
+              "category_handled": "Desserts"
+            }
+          ]
+        }
+      ]
+    }
+
+]
+

@@ -1,0 +1,26 @@
+[
+    {
+      "feedback_id": "F001",
+      "version": 1,
+      "order_id": "O001",
+      "rating": 5,
+      "comment": "Excellent service and food quality!",
+      "submitted_at": "2025-07-30T13:00:00Z"
+    },
+    {
+      "feedback_id": "F002",
+      "version": 1,
+      "order_id": "O002",
+      "rating": 4,
+      "comment": "Food was great but delivery took a little long.",
+      "submitted_at": "2025-07-30T13:10:00Z"
+    },
+    {
+      "feedback_id": "F003",
+      "version": 1,
+      "order_id": "O003",
+      "rating": 3,
+      "comment": "Average taste, could improve portion size.",
+      "submitted_at": "2025-07-30T13:20:00Z"
+    }
+]

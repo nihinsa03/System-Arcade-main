@@ -1,0 +1,32 @@
+[
+    {
+      "discount_id": "DISC10",
+      "version": 1,
+      "discount_name": "10% Off on Total Bill",
+      "type": "percentage",
+      "value": 10,
+      "is_active": true,
+      "valid_from": "2025-07-01T00:00:00Z",
+      "valid_to": "2025-08-31T23:59:59Z"
+    },
+    {
+      "discount_id": "DISC50",
+      "version": 1,
+      "discount_name": "Flat 50 on Starters",
+      "type": "fixed",
+      "value": 50,
+      "is_active": true,
+      "valid_from": "2025-07-15T00:00:00Z",
+      "valid_to": "2025-09-30T23:59:59Z"
+    },
+    {
+      "discount_id": "DISC5",
+      "version": 1,
+      "discount_name": "5% Off for Members",
+      "type": "percentage",
+      "value": 5,
+      "is_active": false,
+      "valid_from": "2025-06-01T00:00:00Z",
+      "valid_to": "2025-07-30T23:59:59Z"
+    }
+  ]

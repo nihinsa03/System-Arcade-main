@@ -1,0 +1,27 @@
+[
+    {
+      "notification_id": "N001",
+      "version": 1,
+      "user_id": "U001",
+      "message": "Your order O001 has been prepared and is ready for pickup.",
+      "read": false,
+      "created_at": "2025-07-30T12:00:00Z"
+    },
+    {
+      "notification_id": "N002",
+      "version": 1,
+      "user_id": "U002",
+      "message": "Table 5 session has ended. Please close the bill.",
+      "read": true,
+      "created_at": "2025-07-30T12:10:00Z"
+    },
+    {
+      "notification_id": "N003",
+      "version": 1,
+      "user_id": "U003",
+      "message": "New menu items have been added to the Global Menu.",
+      "read": false,
+      "created_at": "2025-07-30T12:20:00Z"
+    }
+  ]
+

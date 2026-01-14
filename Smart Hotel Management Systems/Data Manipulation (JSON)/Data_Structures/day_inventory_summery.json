@@ -1,0 +1,32 @@
+[
+    {
+      "inventory_items_id": "INV001",
+      "version": 1,
+      "branch_id": "B001",
+      "opening": 20,
+      "incoming": 10,
+      "outgoing": 8,
+      "closing": 22,
+      "created_dtm": "2025-07-30T23:59:59Z"
+    },
+    {
+      "inventory_items_id": "INV002",
+      "version": 1,
+      "branch_id": "B001",
+      "opening": 30,
+      "incoming": 15,
+      "outgoing": 10,
+      "closing": 35,
+      "created_dtm": "2025-07-30T23:59:59Z"
+    },
+    {
+      "inventory_items_id": "INV003",
+      "version": 1,
+      "branch_id": "B002",
+      "opening": 25,
+      "incoming": 5,
+      "outgoing": 12,
+      "closing": 18,
+      "created_dtm": "2025-07-30T23:59:59Z"
+    }
+  ]

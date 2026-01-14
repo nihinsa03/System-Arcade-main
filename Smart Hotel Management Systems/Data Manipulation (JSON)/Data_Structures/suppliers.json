@@ -1,0 +1,36 @@
+[
+    {
+      "supplier_id": "SUP001",
+      "version": 1,
+      "branch_id": "B001",
+      "name": "Fresh Produce Ltd",
+      "contact_person": "John Smith",
+      "phone": "+94-777-123456",
+      "email": "john@freshproduce.com",
+      "address": "45, Main Street, Colombo",
+      "created_at": "2025-07-30T09:00:00Z"
+    },
+    {
+      "supplier_id": "SUP002",
+      "version": 1,
+      "branch_id": "B002",
+      "name": "Oceanic Foods",
+      "contact_person": "Sarah Jones",
+      "phone": "+94-778-654321",
+      "email": "sarah@oceanicfoods.com",
+      "address": "12, Sea Road, Galle",
+      "created_at": "2025-07-30T09:30:00Z"
+    },
+    {
+      "supplier_id": "SUP003",
+      "version": 1,
+      "branch_id": "B001",
+      "name": "Dairy World Pvt Ltd",
+      "contact_person": "Nimal Perera",
+      "phone": "+94-779-789654",
+      "email": "nimal@dairyworld.com",
+      "address": "78, Milk Lane, Kandy",
+      "created_at": "2025-07-30T10:00:00Z"
+    }
+  ]
+

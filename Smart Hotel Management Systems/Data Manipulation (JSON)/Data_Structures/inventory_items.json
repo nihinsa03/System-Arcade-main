@@ -1,0 +1,50 @@
+[
+    {
+      "inventory_items_id": "INV001",
+      "version": 1,
+      "branch_id": "B001",
+      "name": "Mozzarella Cheese",
+      "description": "Used for pizzas, garlic bread, and starters.",
+      "unit": "kg",
+      "quantity": 15,
+      "reorder_level": 5,
+      "supplier_id": "SUP001",
+      "last_updated_at": "2025-07-30T14:00:00Z"
+    },
+    {
+      "inventory_items_id": "INV002",
+      "version": 1,
+      "branch_id": "B001",
+      "name": "Tomatoes",
+      "description": "Fresh red tomatoes for sauces and salads.",
+      "unit": "kg",
+      "quantity": 25,
+      "reorder_level": 10,
+      "supplier_id": "SUP001",
+      "last_updated_at": "2025-07-30T14:10:00Z"
+    },
+    {
+      "inventory_items_id": "INV003",
+      "version": 1,
+      "branch_id": "B002",
+      "name": "Chicken Breast",
+      "description": "Boneless chicken breasts used for main courses.",
+      "unit": "kg",
+      "quantity": 12,
+      "reorder_level": 6,
+      "supplier_id": "SUP001",
+      "last_updated_at": "2025-07-30T14:20:00Z"
+    },
+    {
+      "inventory_items_id": "INV004",
+      "version": 1,
+      "branch_id": "B002",
+      "name": "Cooking Oil",
+      "description": "Sunflower cooking oil used for frying.",
+      "unit": "liter",
+      "quantity": 30,
+      "reorder_level": 10,
+      "supplier_id": "SUP001",
+      "last_updated_at": "2025-07-30T14:30:00Z"
+    }
+]

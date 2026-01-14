@@ -1,0 +1,26 @@
+[
+    {
+      "alert_id": "LSA001",
+      "version": 1,
+      "inventory_item_id": "INV001",
+      "branch_id": "B001",
+      "alert_triggered_at": "2025-07-30T15:00:00Z",
+      "alert_status": "active"
+    },
+    {
+      "alert_id": "LSA002",
+      "version": 1,
+      "inventory_item_id": "INV002",
+      "branch_id": "B001",
+      "alert_triggered_at": "2025-07-30T15:30:00Z",
+      "alert_status": "resolved"
+    },
+    {
+      "alert_id": "LSA003",
+      "version": 1,
+      "inventory_item_id": "INV003",
+      "branch_id": "B002",
+      "alert_triggered_at": "2025-07-30T16:00:00Z",
+      "alert_status": "active"
+    }
+]

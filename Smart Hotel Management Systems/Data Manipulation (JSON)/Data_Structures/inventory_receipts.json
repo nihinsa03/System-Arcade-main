@@ -1,0 +1,32 @@
+[
+    {
+      "inventory_receipt_id": "IR001",
+      "version": 1,
+      "inventory_items_id": "INV001",
+      "supplier_id": "SUP001",
+      "quantity_received": 20,
+      "received_by": "U001",
+      "received_dtm": "2025-07-30T10:00:00Z",
+      "note": "Regular stock replenishment"
+    },
+    {
+      "inventory_receipt_id": "IR002",
+      "version": 1,
+      "inventory_items_id": "INV002",
+      "supplier_id": "SUP002",
+      "quantity_received": 50,
+      "received_by": "U002",
+      "received_dtm": "2025-07-30T11:00:00Z",
+      "note": "Urgent order for upcoming event"
+    },
+    {
+      "inventory_receipt_id": "IR003",
+      "version": 1,
+      "inventory_items_id": "INV003",
+      "supplier_id": "SUP001",
+      "quantity_received": 15,
+      "received_by": "U003",
+      "received_dtm": "2025-07-30T12:30:00Z",
+      "note": "Weekly stock update"
+    }
+  ]

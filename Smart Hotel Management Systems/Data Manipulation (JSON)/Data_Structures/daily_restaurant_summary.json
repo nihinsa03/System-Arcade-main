@@ -1,0 +1,20 @@
+[
+    {
+      "summery_id": "DRS001",
+      "version": 1,
+      "date": "2025-07-30",
+      "total_orders": 450,
+      "total_revenue": 18500.75,
+      "total_discounts": 1200.00,
+      "created_dtm": "2025-07-30T23:59:59Z"
+    },
+    {
+      "summery_id": "DRS002",
+      "version": 1,
+      "date": "2025-07-29",
+      "total_orders": 430,
+      "total_revenue": 17900.50,
+      "total_discounts": 1100.00,
+      "created_dtm": "2025-07-29T23:59:59Z"
+    }
+  ]

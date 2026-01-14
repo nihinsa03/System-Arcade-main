@@ -1,0 +1,32 @@
+[
+    {
+      "invoice_id": "INV001",
+      "version": 1,
+      "order_id": "O001",
+      "session_id": "S001",
+      "discount_id": null,
+      "total_amount": 45.50,
+      "final_amount": 41.00,
+      "status": "paid",
+      "generated_by": "U001",
+      "generated_dtm": "2025-07-30T12:30:00Z",
+      "payment_method": "card",
+      "transaction_reference": "TRX123456",
+      "paid_dtm": "2025-07-30T12:35:00Z"
+    },
+    {
+      "invoice_id": "INV002",
+      "version": 1,
+      "order_id": "O002",
+      "session_id": "S001",
+      "discount_id": "DISC10",
+      "total_amount": 70.00,
+      "final_amount": 63.00,
+      "status": "unpaid",
+      "generated_by": "U002",
+      "generated_dtm": "2025-07-30T12:40:00Z",
+      "payment_method": "cash",
+      "transaction_reference": null,
+      "paid_dtm": null
+    }
+]
